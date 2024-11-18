@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ViewApplication Name="AplikacjaProjekt" RepositoryName="InTouch" RepositoryNodeName="MSI_KUBA">
+  <ScreenProfile ReferenceIndex="0" />
+</ViewApplication>
